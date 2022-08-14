@@ -3,6 +3,6 @@
 
 # Operating System
 
-# The Design And Analysis of Algorithms
+# The Design and Analysis of Algorithms
 
 # Computer Networks
