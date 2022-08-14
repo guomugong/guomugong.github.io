@@ -15,10 +15,10 @@
 [Fundus image segmentation via hierarchical feature learning](https://doi.org/10.1016/j.compbiomed.2021.104928), *Computers in Biology and Medicine*, 2021,138:104928\\
 **Song Guo**
 
-[DPN: Detail-Preserving Network with High Resolution Representation for Efficient Segmentation of Retinal Vessels](https://doi.org/10.1007/s12652-021-03422-3),*Journal of Ambient Intelligence and Humanized Computing*, 2021, online\\
+[DPN: Detail-Preserving Network with High Resolution Representation for Efficient Segmentation of Retinal Vessels](https://doi.org/10.1007/s12652-021-03422-3), *Journal of Ambient Intelligence and Humanized Computing*, 2021, online\\
 **Song Guo**
 
-[Vertically-nested Network for Automatic Vessel Segmentation](https://doi.org/10.1109/IJCNN52387.2021.9533943),*IJCNN*,2021\\
+[Vertically-nested Network for Automatic Vessel Segmentation](https://doi.org/10.1109/IJCNN52387.2021.9533943), *IJCNN*,2021\\
 **Song Guo**, Xiaojuan Chenm Yueping Kong
 
 [A Mountain Summit Recognition Method Based on Improved Faster R-CNN](https://doi.org/10.1155/2021/8235108), *Complexity*, 2021\\
