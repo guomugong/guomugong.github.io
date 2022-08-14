@@ -1,5 +1,5 @@
 
-# 📖 Educations
+# 📖 People
 
 # Song Guo
 ## Educations
