@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Song Guo (郭松)"
+title                    : "Song Guo"
 description              : "Assistant Professor in Xi'an University of Architecture and Technology" 
 repository               : "guomugong/guomugong.github.io"
 google_scholar_stats_use_cdn : false

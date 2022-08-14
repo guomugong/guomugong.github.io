@@ -1,5 +1,5 @@
 
-# 📖 teaching
+# 📖 Teaching
 
 # Operating System
 
