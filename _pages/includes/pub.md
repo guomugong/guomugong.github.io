@@ -2,8 +2,8 @@
 
 
 ## 2022
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[CSGNet: Cascade Semantic Guided Net for Retinal Vessel Segmentation](doi.org/10.1016/j.bspc.2022.103930), Biomedical Signal Processing and Control, 2022,78:103930\\
+**Song Guo**
 
 ## 2021
 [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**, **ACM-MM 2022**
