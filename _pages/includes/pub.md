@@ -5,7 +5,7 @@
 * [CSGNet: Cascade Semantic Guided Net for Retinal Vessel Segmentation](https://doi.org/10.1016/j.bspc.2022.103930), *Biomedical Signal Processing and Control*, 2022,78:103930\\
 **Song Guo**
 
-[LightEyes: a lightweight fundus segmentation network for mobile edge computing](https://doi.org/10.3390/s22093112), *Sensors*, 2022,22(9):3112\\
+* [LightEyes: a lightweight fundus segmentation network for mobile edge computing](https://doi.org/10.3390/s22093112), *Sensors*, 2022,22(9):3112\\
 **Song Guo**
 
 ## 2021
