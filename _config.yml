@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in Sea AI Lab. Graduating from Zhejiang University. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Song Guo (郭松)"
+description              : "Assistant Professor in Xi'an University of Architecture and Technology" 
+repository               : "guomugong/guomugong.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : 
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification : 
+bing_site_verification   : 
+baidu_site_verification  : 
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Song Guo (郭松)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "Sea AI Lab"
-  location         : "Singapore"
+  bio              : "Xi'an University of Architecture and Technology"
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren@zju.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=9VDvuhUAAAAJ"
+  email            : "guosong@xauat.edu.cn"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "guomugong"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : 
+  dblp             : "https://dblp.org/pid/01/267-2.html"
+  orcid            : "https://orcid.org/0000-0001-6841-753X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
