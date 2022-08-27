@@ -24,7 +24,7 @@ The course covers advanced algorithm design strategies and analysis using formal
 Recommended Texts:
 - *Introduction to the Design and Analysis of Algorithms*, by Anany Levitin, Third Edition.
 - *Introduction to Algorithms*, by Cormen, Leiserson, et al.
-- *The Art of Computer Programming*, by Donald E. Knuth.
+- *The Art of Computer Programming*, by Donald E. Knuth, Third Edition.
 </div>
 </div>
 
