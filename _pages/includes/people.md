@@ -20,7 +20,3 @@
 ### Educations
 - 2021.09 - now, Xi'an University of Architecture and Technology
 - 2017.09 - 2021.06, BS, Xi'an University of Posts and Telecommunications
-
-## Tao Hu
-### Educations
-- 2021.09 - now, Xi'an University of Architecture and Technology
