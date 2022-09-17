@@ -19,7 +19,7 @@
 **Song Guo**
 
 * [Vertically-nested Network for Automatic Vessel Segmentation](https://doi.org/10.1109/IJCNN52387.2021.9533943), *IJCNN*,2021\\
-**Song Guo**, Xiaojuan Chenm Yueping Kong
+**Song Guo**, Xiaojuan Chen, Yueping Kong
 
 * [A Mountain Summit Recognition Method Based on Improved Faster R-CNN](https://doi.org/10.1155/2021/8235108), *Complexity*, 2021\\
 Yueping Kong, Yun Wang, **Song Guo**, Jiajing Wang
