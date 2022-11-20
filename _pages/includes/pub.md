@@ -2,6 +2,9 @@
 
 
 ## 2022
+* 眼底图像智能计算及应用, *南开大学出版社*, 2022.10, ISBN:978-7-310-06309-3\\
+李涛,**郭松**
+
 * [CSGNet: Cascade Semantic Guided Net for Retinal Vessel Segmentation](https://doi.org/10.1016/j.bspc.2022.103930), *Biomedical Signal Processing and Control*, 2022,78:103930\\
 **Song Guo**
 
