@@ -2,6 +2,9 @@
 
 
 ## 2022
+* [MDANet: Multi-Direction Attention Network for Curvilinear Structure Segmentation of Biomedical Images](https://ieeexplore.ieee.org/document/9994996), *2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2022:1475-1480\\
+Xiaojuan Chen, Tao Hu, **Song Guo**
+
 * 眼底图像智能计算及应用, *南开大学出版社*, 2022.10, ISBN:978-7-310-06309-3\\
 李涛,**郭松**
 
