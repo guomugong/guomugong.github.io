@@ -11,7 +11,7 @@
 
 ## Academic Service
 ### Program Committee Member
-* ICANN 2022
+* ICANN 2022/ICANN 2023
 
 # Graudate Students
 ## Xiaojuan Chen
