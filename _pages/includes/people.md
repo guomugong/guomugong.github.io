@@ -11,10 +11,14 @@
 
 ## Academic Service
 ### Program Committee Member
-* ICANN 2022/ICANN 2023
+* ICANN 2022/2023
 
 # Graudate Students
 ## Xiaojuan Chen
 ### Educations
 - 2021.09 - now, Xi'an University of Architecture and Technology
 - 2017.09 - 2021.06, BS, Xi'an University of Posts and Telecommunications
+
+# Research Assistant
+## Luyu Niu
+- 2023.02 - 2023.8
