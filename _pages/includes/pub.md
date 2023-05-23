@@ -1,5 +1,8 @@
 # 📝 Publications 
 
+## 2023
+* [DPN: Detail-Preserving Network with High Resolution Representation for Efficient Segmentation of Retinal Vessels](https://doi.org/10.1007/s12652-021-03422-3), *Journal of Ambient Intelligence and Humanized Computing*, 2023(14):5689-5702\\
+**Song Guo**
 
 ## 2022
 * [MDANet: Multi-Direction Attention Network for Curvilinear Structure Segmentation of Biomedical Images](https://ieeexplore.ieee.org/document/9994996), *2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2022:1475-1480\\
@@ -19,9 +22,6 @@ Xiaojuan Chen, Tao Hu, **Song Guo**
 **郭松**,李涛,李宁,康宏,张玉军,王恺
 
 * [Fundus image segmentation via hierarchical feature learning](https://doi.org/10.1016/j.compbiomed.2021.104928), *Computers in Biology and Medicine*, 2021,138:104928\\
-**Song Guo**
-
-* [DPN: Detail-Preserving Network with High Resolution Representation for Efficient Segmentation of Retinal Vessels](https://doi.org/10.1007/s12652-021-03422-3), *Journal of Ambient Intelligence and Humanized Computing*, 2021, online\\
 **Song Guo**
 
 * [Vertically-nested Network for Automatic Vessel Segmentation](https://doi.org/10.1109/IJCNN52387.2021.9533943), *IJCNN*,2021\\
