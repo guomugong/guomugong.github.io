@@ -14,11 +14,10 @@
 * ICANN 2022/2023
 
 # Graudate Students
-## Xiaojuan Chen
-### Educations
-- 2021.09 - now, Xi'an University of Architecture and Technology
-- 2017.09 - 2021.06, BS, Xi'an University of Posts and Telecommunications
+## Xiaojuan Chen (2021.09 - 2024.06)
+## Peilei Fu (2023.09 - 2026.06)
+## Ximeng Zhang (2023.09 - 2026.06)
+- 
 
 # Research Assistant
-## Luyu Niu
-- 2023.02 - 2023.8
+## Luyu Niu (2023.02 - 2023.08)
