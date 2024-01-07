@@ -1,3 +1,3 @@
-I work at Xi'an University of Architecture and Technology (college of information and control engineering) as an associate professor.
-I received my PhD degree in computer science and technology from Nankai University in 2020, under the supervision of prof. [Tao Li (李涛)](https://ics.nankai.edu.cn). Before that, I got my BS and MS in 2014 and 2017 in China Three Gorges University and [Dalian University](http://adic.dlu.edu.cn), respectively.
-My research interest includes medical image analysis and computer vision. I have published more than 20 papers with 720+ Google Scholar citations. If interested, feel free to email me at [guosong@xauat.edu.cn](mailto:guosong@xauat.edu.cn).
+I work at Xi'an University of Architecture and Technology (College of Information and Control Engineering) as an associate professor.
+I received my PhD degree in computer science and technology from Nankai University in 2020, under the supervision of Prof. [Tao Li (李涛)](https://ics.nankai.edu.cn). Before that, I got my BS and MS in 2014 and 2017 at China Three Gorges University and [Dalian University](http://adic.dlu.edu.cn), respectively.
+My research interest includes medical image analysis and computer vision. I have published more than 20 papers with 750+ Google Scholar citations. If interested, email me at [guosong@xauat.edu.cn](mailto:guosong@xauat.edu.cn).
