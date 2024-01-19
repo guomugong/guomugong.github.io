@@ -1,6 +1,9 @@
 # 📝 Publications 
 
 ## 2023
+* [Bézier Curves Meet Deep Learning: A Novel Pretraining Method for Improved and Generalized Retinal Vessel Segmentation](https://ieeexplore.ieee.org/document/10385674), *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2023:2159-2164\\
+Luyu Niu, Xiaojuan Chen, **Song Guo**
+
 * [DPN: Detail-Preserving Network with High Resolution Representation for Efficient Segmentation of Retinal Vessels](https://doi.org/10.1007/s12652-021-03422-3), *Journal of Ambient Intelligence and Humanized Computing*, 2023(14):5689-5702\\
 **Song Guo**
 
