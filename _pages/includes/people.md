@@ -11,13 +11,12 @@
 
 ## Academic Service
 ### Program Committee Member
-* ICANN 2022/2023
+* ICANN2022/2023 EANN2024
 
 # Graudate Students
 ## Xiaojuan Chen (2021.09 - 2024.06)
 ## Peilei Fu (2023.09 - 2026.06)
 ## Ximeng Zhang (2023.09 - 2026.06)
-- 
 
 # Research Assistant
 ## Luyu Niu (2023.02 - 2023.08)
