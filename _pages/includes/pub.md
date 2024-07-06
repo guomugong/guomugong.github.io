@@ -1,5 +1,9 @@
 # 📝 Publications 
 
+## 2024
+* [Random Color Transformation for Single Domain Generalized Retinal Image Segmentation](https://doi.org/10.1016/j.engappai.2024.108907), *Engineering Applications of Artificial Intelligence*, 2024,136:108907\\
+**Song Guo**, Ke Ji
+  
 ## 2023
 * [Bézier Curves Meet Deep Learning: A Novel Pretraining Method for Improved and Generalized Retinal Vessel Segmentation](https://ieeexplore.ieee.org/document/10385674), *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2023:2159-2164\\
 Luyu Niu, Xiaojuan Chen, **Song Guo**
