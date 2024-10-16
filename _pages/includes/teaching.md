@@ -29,3 +29,7 @@ Recommended Texts:
 </div>
 
 # Advanced Data Structures
+This course is a professional basic required course for computer science and technology majors, emphasizing the close integration of theory and practice. Based on Data Structure 1, this course teaches the basic principles of more complex and efficient data structures and algorithms, and teaches the whole process of programming implementation based on Java language, so that students can master the ability to implement complex data structures and algorithms using Java language and cultivate their problem-solving ability.
+
+Recommended Texts:
+- *Data structures: abstraction and design using Java*， by Koffman, and Paul, Fourth Edition
