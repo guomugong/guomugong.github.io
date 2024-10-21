@@ -1,5 +1,9 @@
 # 📝 Publications 
 
+## 2025
+* [Efficient Multi-scale Learning via Scale Embedding for Diabetic Retinopathy Multi-lesion Segmentation](https://doi.org/10.1016/j.bspc.2024.107078), *Biomedical Signal Processing and Control*, 2025,100:107078\\
+**Song Guo**
+
 ## 2024
 * [Random Color Transformation for Single Domain Generalized Retinal Image Segmentation](https://doi.org/10.1016/j.engappai.2024.108907), *Engineering Applications of Artificial Intelligence*, 2024,136:108907\\
 **Song Guo**, Ke Ji
