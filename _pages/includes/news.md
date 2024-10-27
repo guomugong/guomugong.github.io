@@ -1,4 +1,5 @@
 # 🔥 News
+- 2024.10.27: My Google Scholar Citations reach 1000+!
 - 2024.10.09: One paper on DR lesion segmentation was accepted by Biomedical Signal Processing and Control!
 - 2024.10.07: One paper on retinal vessel A/V classification was accepted by Neural Computing and Applications!
 - 2024.06.28: One paper on single-domain generalization was accepted by Engineering Applications of Artificial Intelligence!
