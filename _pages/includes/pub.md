@@ -8,6 +8,10 @@
 * [Random Color Transformation for Single Domain Generalized Retinal Image Segmentation](https://doi.org/10.1016/j.engappai.2024.108907), *Engineering Applications of Artificial Intelligence*, 2024,136:108907\\
 **Song Guo**, Ke Ji
   
+* [Efficient retinal artery/vein classification with dense color-invariant
+feature learning](https://doi.org/10.1007/s00521-024-10696-z), *Neural Computing and Applications*, 2024\\
+Xiaojuan Chen, Luyu Niu, **Song Guo**
+  
 ## 2023
 * [Bézier Curves Meet Deep Learning: A Novel Pretraining Method for Improved and Generalized Retinal Vessel Segmentation](https://ieeexplore.ieee.org/document/10385674), *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2023:2159-2164\\
 Luyu Niu, Xiaojuan Chen, **Song Guo**
