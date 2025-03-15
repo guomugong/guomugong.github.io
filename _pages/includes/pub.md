@@ -1,6 +1,9 @@
 # 📝 Publications 
 
 ## 2025
+* [FreeLesion: Synthetic Image-Mask Pairs for Fundus Lesion Segmentation via Curriculum Learning and Feature-Loss Guided Filtering](https://doi.org/10.1109/ICASSP49660.2025.10888178), *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2025\\
+Peilei Fu, **Song Guo**
+
 * [Efficient Multi-scale Learning via Scale Embedding for Diabetic Retinopathy Multi-lesion Segmentation](https://doi.org/10.1016/j.bspc.2024.107078), *Biomedical Signal Processing and Control*, 2025,100:107078\\
 **Song Guo**
 
