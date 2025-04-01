@@ -17,6 +17,9 @@
 ## Xiaojuan Chen (2021.09 - 2024.06)
 ## Peilei Fu (2023.09 - 2026.06)
 ## Ximeng Zhang (2023.09 - 2026.06)
+## Sihang Zhang (2025.09-2028.06)
+## Fubin Yang (2025.09-2028.06)
 
 # Research Assistant
 ## Luyu Niu (2023.02 - 2023.08)
+## Shumao Wang (2024.10 - 2025.06)
