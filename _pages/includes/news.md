@@ -1,5 +1,6 @@
 # 🔥 News
 - 2025.4.1: One paper on self-supervised learning was accepted by IJCNN 2025. Congratulations to XM Zhang!
+- 2025.3.31: SH Zhang and FB Yang joined our team. Welcome!
 - 2024.12.21: One paper on semantic image synthesis was accepted by ICASSP 2025. Congratulations to PL Fu! 
 - 2024.10.27: My Google Scholar Citations reach 1000+!
 - 2024.10.09: One paper on DR lesion segmentation was accepted by Biomedical Signal Processing and Control!
