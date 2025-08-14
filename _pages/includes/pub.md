@@ -1,6 +1,9 @@
 # 📝 Publications 
 
 ## 2025
+* [Enhancing cross-domain generalization in retinal image segmentation via style randomization and style normalization](https://doi.org/10.1016/j.imavis.2025.105694), *Image and Vision Computing*, 2025,162:105694\\
+**Song Guo**
+  
 * [FreeLesion: Synthetic Image-Mask Pairs for Fundus Lesion Segmentation via Curriculum Learning and Feature-Loss Guided Filtering](https://doi.org/10.1109/ICASSP49660.2025.10888178), *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2025\\
 Peilei Fu, **Song Guo**
 
