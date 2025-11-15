@@ -1,6 +1,9 @@
 # 📝 Publications 
 
 ## 2025
+* [DualScaleNet: A Self-Supervised Dual-Branch Contrastive Learning Framework for Enhanced Medical Image Segmentation](https://doi.org/10.1109/IJCNN64981.2025.11227635), *2025 International Joint Conference on Neural Networks*, 2025\\
+Ximeng Zhang, Shumao Wang, **Song Guo**
+
 * [Enhancing cross-domain generalization in retinal image segmentation via style randomization and style normalization](https://doi.org/10.1016/j.imavis.2025.105694), *Image and Vision Computing*, 2025,162:105694\\
 **Song Guo**
   
