@@ -1,4 +1,5 @@
 # 🔥 News
+- 2025.12.05: One paper on Multi-Source Domain Generalization was accepted by Applied Soft Computing Journal!
 - 2025.08.01: One paper on Domain Generalization was accepted by Image and Vision Computing!
 - 2025.05.12: I was granted by Shaanxi Province. Good news!
 - 2025.04.01: One paper on self-supervised learning was accepted by IJCNN 2025. Congratulations to XM Zhang!
