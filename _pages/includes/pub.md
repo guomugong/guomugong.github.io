@@ -1,9 +1,12 @@
 # 📝 Publications 
 
 ## 2026
+* 深度学习在图像分析中的应用, *西安电子科技大学出版社*, 2026.2, [ISBN:978-7-5606-7972-3](https://pdc.capub.cn/search.html#/quick)\\
+**郭松**, 季科
+  
 * [Model Cooperation Learning for Multi-source Domain Generalization in Medical Image Segmentation](https://doi.org/10.1016/j.asoc.2025.114397), *Applied Soft Computing*, 2026,188:114397\\
 **Song Guo**
-  
+
 ## 2025
 * 算法设计与分析, *西安电子科技大学出版社*, 2025.12, [ISBN:978-7-5606-7930-3](https://pdc.capub.cn/search.html#/quick)\\
 **郭松**
