@@ -1,6 +1,9 @@
 # 📝 Publications 
 
 ## 2026
+* [Single Domain Generalized Fundus Image Segmentation via Random Style Transformation](https://doi.org/10.1016/j.asoc.2026.114978), *Applied Soft Computing*, 2026,195:114978\\
+**Song Guo**
+  
 * 深度学习在图像分析中的应用, *西安电子科技大学出版社*, 2026.2, [ISBN:978-7-5606-7972-3](https://pdc.capub.cn/search.html#/quick)\\
 **郭松**, 季科
   
