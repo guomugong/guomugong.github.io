@@ -10,10 +10,6 @@
 - 2014.09 - 2017.06, MS,  Dalian University, China
 - 2010.09 - 2014.06, BS,  China Three Gorges University, China
 
-## Academic Service
-### Program Committee Member
-* ICANN2022/2023 EANN2024
-
 # Graduate Students
 
 ## Current Students
